@@ -255,7 +255,7 @@ input {
 </style>
 
 <div class="banner"></div>
-
+<p>This dude's bullshit is unimpressive.</p>
 
     <?php the_content();?>
 <?php get_footer(); ?>
