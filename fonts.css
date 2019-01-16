@@ -1,0 +1,77 @@
+/* CSS Document */
+
+/*
+@font-face {
+    font-family: GothamBold;
+    src: url(http://www.eminetwork.com/fonts/Gotham/Gotham-Bold.woff) format('woff');
+
+}
+
+@font-face {
+    font-family: GothamBook;
+    src: url(http://www.eminetwork.com/fonts/Gotham/Gotham-Book.woff) format('woff');
+}
+
+
+@font-face {
+    font-family: GothamBlack;
+    src: url(http://www.eminetwork.com/fonts/Gotham/Gotham-Black.woff) format('woff');
+}
+
+@font-face {
+    font-family: GothamM;
+    src: url(http://www.eminetwork.com/fonts/Gotham/Gotham-Medium.woff) format('woff');
+}
+*/
+
+
+
+@font-face {
+    font-family: GothamMedium;
+    src: url(./fonts/Gotham-Medium.ttf);
+    src: url(./fonts/Gotham-Medium.eot); /* IE9 Compat Modes */
+    src: url(./fonts/Gotham-Medium.woff);
+    src: url(./fonts/Gotham-Medium.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
+    src: url(./fonts/Gotham-Medium.otf);
+}
+
+@font-face {
+    font-family: GothamBold;
+    src: url(./fonts/Gotham-Bold.ttf);
+    src: url(./fonts/Gotham-Bold.eot); /* IE9 Compat Modes */
+    src: url(./fonts/Gotham-Bold.woff);
+    src: url(./fonts/Gotham-Bold.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
+    src: url(./fonts/Gotham-Bold.otf);
+}
+
+@font-face {
+    font-family: GothamBook;
+    src: url(./fonts/Gotham-Book.ttf);
+    src: url(./fonts/Gotham-Book.eot); /* IE9 Compat Modes */
+    src: url(./fonts/Gotham-Book.woff); /* IE9 Compat Modes */
+    src: url(./fonts/Gotham-Book.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
+    src: url(./fonts/Gotham-Book.otf);
+}
+
+
+/*@font-face {
+    font-family: 'GothamMedium';
+    src: url('http://www.eminetwork.com/fonts/GothamMedium.eot');
+    src: url('http://www.eminetwork.com/fonts/GothamMedium.eot#iefix.eot') format('embedded-opentype'),
+         url('http://www.eminetwork.com/fonts/GothamMedium.woff') format('woff'),
+         url('http://www.eminetwork.com/fonts/GothamMedium.ttf') format('truetype'),
+         url('http://www.eminetwork.com/fonts/GothamMedium.svg#GothamMedium') format('svg');
+        font-weight:normal;
+        font-style:normal;
+}
+
+
+
+@font-face {
+    font-family: 'GothamBook';
+    src: url('http://www.eminetwork.com/fonts/GothamBook.eot');
+    src: url('http://www.eminetwork.com/fonts/GothamBook?#iefix.eot') format('embedded-opentype'),
+         url('http://www.eminetwork.com/fonts/GothamBook.woff') format('woff'),
+         url('http://www.eminetwork.com/fonts/GothamBook.ttf') format('truetype'),
+         url('http://www.eminetwork.com/fonts/GothamBook.svg#GothamBook') format('svg');
+}*/
